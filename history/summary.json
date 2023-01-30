@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/qrcode-viewer.azurewebsites.net.ico",
     "slug": "qrcode-viewer",
     "status": "up",
-    "uptime": "96.03%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "96.03%",
-    "uptimeYear": "96.03%",
-    "time": 1499,
-    "timeDay": 1499,
-    "timeWeek": 1499,
-    "timeMonth": 1499,
-    "timeYear": 1499,
+    "uptime": "98.21%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "98.21%",
+    "time": 1392,
+    "timeDay": 1722,
+    "timeWeek": 1392,
+    "timeMonth": 1392,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2023-01-29": 43
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1208,
-    "timeDay": 1208,
-    "timeWeek": 1208,
-    "timeMonth": 1208,
-    "timeYear": 1208,
+    "time": 1254,
+    "timeDay": 1347,
+    "timeWeek": 1254,
+    "timeMonth": 1254,
+    "timeYear": 1254,
     "dailyMinutesDown": {}
   }
 ]

@@ -182,24 +182,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site2",
     "status": "up",
-    "uptime": "92.03%",
-    "uptimeDay": "55.60%",
-    "uptimeWeek": "61.68%",
-    "uptimeMonth": "91.18%",
-    "uptimeYear": "92.03%",
+    "uptime": "92.01%",
+    "uptimeDay": "60.29%",
+    "uptimeWeek": "61.49%",
+    "uptimeMonth": "91.14%",
+    "uptimeYear": "92.01%",
     "time": 521,
-    "timeDay": 549,
-    "timeWeek": 563,
-    "timeMonth": 527,
+    "timeDay": 561,
+    "timeWeek": 564,
+    "timeMonth": 528,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2023-07-28": 633,
+      "2023-07-28": 622,
       "2023-07-27": 836,
       "2023-07-26": 576,
       "2023-07-25": 554,
       "2023-07-24": 518,
       "2023-07-23": 542,
-      "2023-07-22": 207
+      "2023-07-22": 237
     }
   }
 ]

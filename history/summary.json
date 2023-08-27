@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qrcode-viewer.azurewebsites.net.ico",
     "slug": "qrcode-viewer",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "98.16%",
+    "uptimeYear": "98.17%",
     "time": 636,
     "timeDay": 233,
     "timeWeek": 306,
@@ -189,15 +189,15 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site2",
-    "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "58.72%",
-    "uptimeWeek": "60.69%",
-    "uptimeMonth": "90.95%",
-    "uptimeYear": "95.65%",
+    "status": "down",
+    "uptime": "95.72%",
+    "uptimeDay": "58.71%",
+    "uptimeWeek": "61.35%",
+    "uptimeMonth": "91.11%",
+    "uptimeYear": "95.72%",
     "time": 567,
-    "timeDay": 621,
-    "timeWeek": 625,
+    "timeDay": 610,
+    "timeWeek": 623,
     "timeMonth": 597,
     "timeYear": 567,
     "dailyMinutesDown": {
@@ -207,7 +207,7 @@
       "2023-08-24": 777,
       "2023-08-23": 745,
       "2023-08-22": 602,
-      "2023-08-21": 350
+      "2023-08-21": 282
     }
   }
 ]

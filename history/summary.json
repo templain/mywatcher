@@ -201,16 +201,16 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site2",
-    "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "56.80%",
-    "uptimeWeek": "60.94%",
-    "uptimeMonth": "91.01%",
-    "uptimeYear": "96.94%",
+    "status": "down",
+    "uptime": "96.96%",
+    "uptimeDay": "58.09%",
+    "uptimeWeek": "61.19%",
+    "uptimeMonth": "91.07%",
+    "uptimeYear": "96.96%",
     "time": 596,
-    "timeDay": 629,
-    "timeWeek": 648,
-    "timeMonth": 650,
+    "timeDay": 627,
+    "timeWeek": 646,
+    "timeMonth": 649,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2023-09-22": 464,
@@ -219,7 +219,7 @@
       "2023-09-19": 605,
       "2023-09-18": 564,
       "2023-09-17": 774,
-      "2023-09-16": 137
+      "2023-09-16": 111
     }
   }
 ]

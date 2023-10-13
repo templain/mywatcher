@@ -4,7 +4,7 @@
     "url": "https://qrcode-viewer.azurewebsites.net/qrcode-viewer/",
     "icon": "https://icons.duckduckgo.com/ip3/qrcode-viewer.azurewebsites.net.ico",
     "slug": "qrcode-viewer",
-    "status": "up",
+    "status": "down",
     "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 352,
     "timeYear": 581,
     "dailyMinutesDown": {
+      "2023-10-13": 0,
       "2023-09-29": 41,
       "2023-09-27": 23,
       "2023-09-26": 40,

@@ -11,8 +11,8 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.48%",
     "time": 568,
-    "timeDay": 241,
-    "timeWeek": 404,
+    "timeDay": 261,
+    "timeWeek": 395,
     "timeMonth": 324,
     "timeYear": 568,
     "dailyMinutesDown": {
@@ -118,19 +118,19 @@
     "url": "$SECRET_SITE_OBOERU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oboeru",
-    "status": "down",
-    "uptime": "3.99%",
-    "uptimeDay": "3.99%",
-    "uptimeWeek": "3.99%",
-    "uptimeMonth": "3.99%",
-    "uptimeYear": "3.99%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 664,
+    "timeDay": 664,
+    "timeWeek": 664,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-10-27": 0
+      "2023-10-27": 156
     }
   }
 ]

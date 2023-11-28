@@ -6,7 +6,7 @@
     "slug": "qrcode-viewer",
     "status": "down",
     "uptime": "95.44%",
-    "uptimeDay": "88.36%",
+    "uptimeDay": "88.27%",
     "uptimeWeek": "33.61%",
     "uptimeMonth": "67.65%",
     "uptimeYear": "95.44%",
@@ -16,7 +16,7 @@
     "timeMonth": 372,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2023-11-28": 0,
+      "2023-11-28": 2,
       "2023-11-27": 166,
       "2023-11-26": 185,
       "2023-11-25": 626,

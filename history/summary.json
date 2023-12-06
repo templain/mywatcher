@@ -6,9 +6,9 @@
     "slug": "qrcode-viewer",
     "status": "up",
     "uptime": "95.51%",
-    "uptimeDay": "71.43%",
-    "uptimeWeek": "81.83%",
-    "uptimeMonth": "62.98%",
+    "uptimeDay": "78.19%",
+    "uptimeWeek": "81.85%",
+    "uptimeMonth": "62.99%",
     "uptimeYear": "95.51%",
     "time": 686,
     "timeDay": 1260,
@@ -16,7 +16,7 @@
     "timeMonth": 939,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2023-12-05": 365,
+      "2023-12-05": 362,
       "2023-12-04": 297,
       "2023-12-03": 240,
       "2023-12-02": 194,
@@ -88,7 +88,8 @@
       "2023-06-14": 45,
       "2023-06-12": 47,
       "2023-06-11": 59,
-      "2023-06-10": 43
+      "2023-06-10": 43,
+      "2023-06-07": 25
     }
   },
   {
@@ -97,13 +98,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oboeru",
     "status": "up",
-    "uptime": "96.59%",
+    "uptime": "96.60%",
     "uptimeDay": "98.90%",
     "uptimeWeek": "98.20%",
     "uptimeMonth": "96.29%",
-    "uptimeYear": "96.59%",
+    "uptimeYear": "96.60%",
     "time": 2791,
-    "timeDay": 2902,
+    "timeDay": 1792,
     "timeWeek": 2179,
     "timeMonth": 3187,
     "timeYear": 2791,

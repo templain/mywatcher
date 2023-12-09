@@ -4,18 +4,19 @@
     "url": "https://qrcode-viewer.onrender.com/qrcode-viewer/",
     "icon": "https://icons.duckduckgo.com/ip3/qrcode-viewer.onrender.com.ico",
     "slug": "qrcode-viewer",
-    "status": "up",
-    "uptime": "95.94%",
-    "uptimeDay": "81.47%",
-    "uptimeWeek": "81.11%",
+    "status": "down",
+    "uptime": "95.96%",
+    "uptimeDay": "82.62%",
+    "uptimeWeek": "81.28%",
     "uptimeMonth": "61.10%",
-    "uptimeYear": "95.94%",
+    "uptimeYear": "95.96%",
     "time": 711,
     "timeDay": 827,
     "timeWeek": 982,
     "timeMonth": 963,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2023-12-09": 0,
       "2023-12-08": 277,
       "2023-12-07": 294,
       "2023-12-06": 257,
@@ -70,8 +71,7 @@
       "2023-07-13": 59,
       "2023-07-12": 58,
       "2023-07-11": 47,
-      "2023-07-09": 36,
-      "2023-07-08": 62
+      "2023-07-09": 36
     }
   },
   {

@@ -1,7 +1,7 @@
 url: $SECRET_SITE_OBOERU
-status: down
-code: 503
-responseTime: 328
-lastUpdated: 2023-12-18T18:43:27.612Z
+status: up
+code: 200
+responseTime: 1986
+lastUpdated: 2023-12-18T18:53:56.660Z
 startTime: 2023-10-27T20:30:32.782Z
 generator: Upptime <https://github.com/upptime/upptime>

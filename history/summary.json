@@ -4,18 +4,19 @@
     "url": "https://qrcode-viewer.onrender.com/qrcode-viewer/",
     "icon": "https://icons.duckduckgo.com/ip3/qrcode-viewer.onrender.com.ico",
     "slug": "qrcode-viewer",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "86.48%",
-    "uptimeWeek": "86.69%",
-    "uptimeMonth": "89.46%",
-    "uptimeYear": "99.04%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "87.37%",
+    "uptimeWeek": "86.68%",
+    "uptimeMonth": "89.53%",
+    "uptimeYear": "99.05%",
     "time": 882,
     "timeDay": 1356,
     "timeWeek": 1118,
     "timeMonth": 1224,
     "timeYear": 882,
     "dailyMinutesDown": {
+      "2023-12-29": 0,
       "2023-12-28": 200,
       "2023-12-27": 160,
       "2023-12-26": 179,
@@ -37,7 +38,7 @@
       "2023-12-10": 96,
       "2023-12-09": 214,
       "2023-12-08": 277,
-      "2023-12-07": 204
+      "2023-12-07": 175
     }
   },
   {
@@ -47,7 +48,7 @@
     "slug": "oboeru",
     "status": "up",
     "uptime": "97.31%",
-    "uptimeDay": "83.63%",
+    "uptimeDay": "84.54%",
     "uptimeWeek": "96.23%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "97.31%",

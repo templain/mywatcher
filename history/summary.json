@@ -1,5 +1,23 @@
 [
   {
+    "name": "WEBAPI",
+    "url": "https://mycolab.bcnl.work",
+    "icon": "https://icons.duckduckgo.com/ip3/mycolab.bcnl.work.ico",
+    "slug": "webapi",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 265,
+    "timeDay": 265,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "MYSITE",
     "url": "$SECRET_SITE_XFREE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 1207,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
+    "time": 623,
+    "timeDay": 737,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   }
 ]

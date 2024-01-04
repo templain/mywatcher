@@ -4,18 +4,20 @@
     "url": "https://mycolab.bcnl.work",
     "icon": "https://icons.duckduckgo.com/ip3/mycolab.bcnl.work.ico",
     "slug": "webapi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 259,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   },
   {
     "name": "MYSITE",

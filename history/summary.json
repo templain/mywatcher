@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mycolab.bcnl.work.ico",
     "slug": "webapi",
     "status": "down",
-    "uptime": "39.27%",
+    "uptime": "38.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "39.27%",
+    "uptimeYear": "38.79%",
     "time": 282,
     "timeDay": 0,
     "timeWeek": 44,
     "timeMonth": 186,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-03-13": 44,
+      "2024-03-13": 1274,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
@@ -79,12 +79,12 @@
   },
   {
     "name": "MYSITE",
-    "url": "$SECRET_SITE_XFREE",
+    "url": "$SECRET_SITE_WEB2KAFKA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mysite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,6 +93,8 @@
     "timeWeek": 498,
     "timeMonth": 545,
     "timeYear": 562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-13": 0
+    }
   }
 ]

@@ -6,7 +6,7 @@ sites:
   - name: WEBAPI
     url: https://mycolab.bcnl.work
   - name: MYSITE
-    url: $SECRET_SITE_WEB2KAFKA
+    url: $SECRET_SITE_OBOERU
     expectedStatusCodes:
       - 404
 status-website:

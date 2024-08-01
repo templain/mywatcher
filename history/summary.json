@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-08-01": 57,
+      "2024-08-01": 106,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
@@ -248,18 +248,19 @@
     "url": "$SECRET_SITE_OBOERU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mysite-2",
-    "status": "up",
-    "uptime": "96.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
+    "status": "down",
+    "uptime": "96.61%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "97.52%",
-    "uptimeYear": "96.58%",
+    "uptimeYear": "96.61%",
     "time": 4464,
     "timeDay": 1926,
     "timeWeek": 6050,
     "timeMonth": 4454,
     "timeYear": 4464,
     "dailyMinutesDown": {
+      "2024-08-01": 0,
       "2024-07-29": 56,
       "2024-07-25": 20,
       "2024-07-23": 50,
@@ -298,7 +299,7 @@
       "2024-06-13": 210,
       "2024-06-12": 183,
       "2024-06-11": 16,
-      "2024-06-10": 87
+      "2024-06-10": 64
     }
   }
 ]

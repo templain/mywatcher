@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-08-01": 1351,
+      "2024-08-02": 53,
+      "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
@@ -229,11 +230,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "99.65%",
-    "time": 3392,
-    "timeDay": 6443,
-    "timeWeek": 5728,
-    "timeMonth": 6220,
-    "timeYear": 3392,
+    "time": 3404,
+    "timeDay": 6768,
+    "timeWeek": 6334,
+    "timeMonth": 6218,
+    "timeYear": 3404,
     "dailyMinutesDown": {
       "2024-07-17": 279,
       "2024-07-16": 639,
@@ -250,17 +251,17 @@
     "slug": "mysite-2",
     "status": "up",
     "uptime": "96.63%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "97.39%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "96.63%",
-    "time": 4500,
-    "timeDay": 6348,
-    "timeWeek": 6624,
+    "time": 4492,
+    "timeDay": 6245,
+    "timeWeek": 5733,
     "timeMonth": 4621,
-    "timeYear": 4500,
+    "timeYear": 4492,
     "dailyMinutesDown": {
-      "2024-08-01": 101,
+      "2024-08-01": 88,
       "2024-07-29": 56,
       "2024-07-25": 20,
       "2024-07-23": 50,
@@ -297,7 +298,8 @@
       "2024-06-15": 40,
       "2024-06-14": 345,
       "2024-06-13": 210,
-      "2024-06-12": 183
+      "2024-06-12": 183,
+      "2024-06-11": 16
     }
   }
 ]

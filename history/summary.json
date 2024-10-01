@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mycolab.bcnl.work.ico",
     "slug": "webapi",
     "status": "down",
-    "uptime": "10.01%",
+    "uptime": "10.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.01%",
+    "uptimeYear": "10.00%",
     "time": 282,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-10-01": 214,
+      "2024-10-01": 324,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -313,16 +313,16 @@
     "url": "$SECRET_SITE_OBOERU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mysite-2",
-    "status": "up",
-    "uptime": "97.55%",
-    "uptimeDay": "94.56%",
+    "status": "down",
+    "uptime": "97.56%",
+    "uptimeDay": "96.26%",
     "uptimeWeek": "97.26%",
     "uptimeMonth": "92.42%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.56%",
     "time": 5787,
-    "timeDay": 9429,
+    "timeDay": 13022,
     "timeWeek": 7526,
-    "timeMonth": 8902,
+    "timeMonth": 8960,
     "timeYear": 5787,
     "dailyMinutesDown": {
       "2024-10-01": 35,
@@ -376,7 +376,7 @@
       "2024-08-07": 57,
       "2024-08-06": 20,
       "2024-08-05": 65,
-      "2024-08-04": 41
+      "2024-08-04": 21
     }
   }
 ]

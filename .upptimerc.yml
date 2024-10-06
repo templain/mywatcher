@@ -9,12 +9,6 @@ sites:
     url: $SECRET_SITE_WORDPRESS
     expectedStatusCodes:
       - 200
-  - name: MYSITE2
-    url: $SECRET_SITE_OBOERU
-    headers:
-      - "Authorization: Basic $OBOERU_AUTH"    
-    expectedStatusCodes:
-      - 200
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

@@ -4,7 +4,9 @@ repo: mywatcher # The name of this repository
 
 sites:
   - name: WEBAPI
-    url: https://mycolab.bcnl.work
+    url: $SECRET_SITE_WEB2KAFKA
+    expectedStatusCodes:
+      - 404
   - name: MYSITE
     url: $SECRET_SITE_WORDPRESS
     expectedStatusCodes:

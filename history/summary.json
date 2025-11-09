@@ -6,17 +6,16 @@
     "slug": "webapi",
     "status": "up",
     "uptime": "44.57%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "75.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "75.01%",
     "time": 645,
     "timeDay": 371,
     "timeWeek": 558,
     "timeMonth": 580,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2025-11-08": 11,
       "2025-11-06": 24,
       "2025-10-15": 345,
       "2025-10-10": 21,
@@ -136,8 +135,7 @@
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
-      "2024-11-10": 1440,
-      "2024-11-09": 1440
+      "2024-11-10": 1440
     }
   },
   {
@@ -148,7 +146,7 @@
     "status": "up",
     "uptime": "99.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.30%",
+    "uptimeWeek": "61.11%",
     "uptimeMonth": "86.73%",
     "uptimeYear": "98.84%",
     "time": 5919,

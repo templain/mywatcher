@@ -1,7 +1,7 @@
 url: $SECRET_SITE_WORDPRESS
-status: down
-code: 530
-responseTime: 114
-lastUpdated: 2025-11-18T09:30:03.135Z
+status: up
+code: 200
+responseTime: 17643
+lastUpdated: 2025-11-18T17:28:20.388Z
 startTime: 2023-12-30T00:24:25.752Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $SECRET_SITE_WEB2KAFKA
-status: up
-code: 404
-responseTime: 435
-lastUpdated: 2026-04-15T19:54:46.848Z
+status: down
+code: 502
+responseTime: 4378
+lastUpdated: 2026-04-15T20:49:40.669Z
 startTime: 2024-01-03T21:56:57.513Z
 generator: Upptime <https://github.com/upptime/upptime>

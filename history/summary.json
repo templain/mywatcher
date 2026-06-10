@@ -85,13 +85,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mysite",
     "status": "down",
-    "uptime": "96.19%",
-    "uptimeDay": "55.95%",
-    "uptimeWeek": "87.01%",
-    "uptimeMonth": "80.70%",
-    "uptimeYear": "90.99%",
+    "uptime": "96.18%",
+    "uptimeDay": "52.20%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "80.56%",
+    "uptimeYear": "90.98%",
     "time": 5094,
-    "timeDay": 367,
+    "timeDay": 474,
     "timeWeek": 554,
     "timeMonth": 696,
     "timeYear": 4655,
@@ -160,7 +160,7 @@
       "2026-05-30": 1145,
       "2026-06-04": 675,
       "2026-06-09": 634,
-      "2026-06-10": 0
+      "2026-06-10": 58
     }
   }
 ]

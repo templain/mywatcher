@@ -4,17 +4,17 @@
     "url": "$SECRET_SITE_WEB2KAFKA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webapi",
-    "status": "down",
+    "status": "up",
     "uptime": "57.59%",
-    "uptimeDay": "85.14%",
-    "uptimeWeek": "75.11%",
-    "uptimeMonth": "52.41%",
-    "uptimeYear": "87.92%",
-    "time": 573,
-    "timeDay": 451,
-    "timeWeek": 452,
-    "timeMonth": 355,
-    "timeYear": 538,
+    "uptimeDay": "83.71%",
+    "uptimeWeek": "72.78%",
+    "uptimeMonth": "51.87%",
+    "uptimeYear": "87.88%",
+    "time": 574,
+    "timeDay": 491,
+    "timeWeek": 473,
+    "timeMonth": 364,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2025-09-19": 19,
       "2025-10-10": 21,
@@ -88,7 +88,7 @@
       "2026-09-09": 356,
       "2026-09-14": 1112,
       "2026-09-13": 1041,
-      "2026-09-15": 0
+      "2026-09-15": 235
     }
   },
   {
